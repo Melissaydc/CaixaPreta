@@ -12,7 +12,7 @@ O único software utilizado para a realização dos testes foi o Selenium IDE na
 
 # Executando os testes
 
-Os testes abrangem cenários de cadastro de usuário, login de usuário e recuperação de senha, conforme registrado no arquivo Excel
+Os testes abrangem cenários de cadastro de usuário, login de usuário e recuperação de senha, conforme registrado no arquivo Excel e no arquivo de testes
 
 # Registro de teste
 
